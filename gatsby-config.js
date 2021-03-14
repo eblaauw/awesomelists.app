@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "awesomelists.app",
-    siteUrl: "awesomelists.app"
+    siteUrl: "https://awesomelists.app"
   },
   plugins: [
     "gatsby-plugin-image",
